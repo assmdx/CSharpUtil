@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageId>CsharpUtil</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>assmdx</Authors>
+	<Company>assmdx.io</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Win32.Registry" Version="4.6.0-preview.18571.3" />
+  </ItemGroup>
+
+</Project>
